@@ -1,6 +1,6 @@
 # Chenbo Sun
 
-- Rainbow Six- Siege
+- Rainbow Six: Siege
 - Ready or Not
 - NeckDeep
 - Bring Me the Horizon
